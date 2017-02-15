@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to POCKET COACH
 
-You can use the [editor on GitHub](https://github.com/svrzii/PocketCoachBasketball/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Football Pocket Coach is a new way to create your own custom tactics directly on your iPhone or iPad. Creating some tactics on your own and presenting them later to your players was never easier.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**CREATE, ANIMATE & SHARE!**
 
-### Markdown
+<img src="http://shrani.si/f/23/Sf/2QHPFhOp/1/1.png" width="350" align="middle">    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. OVERVIEW
+<img src="http://shrani.si/f/29/UO/Fde5w9l/2.png" width="350" align="middle">
 
-```markdown
-Syntax highlighted code block
+### 2. POSITIONING
+<img src="http://shrani.si/f/S/JQ/3GjUhYpC/3.png" width="350" align="middle">
 
-# Header 1
-## Header 2
-### Header 3
+### 3. DRAWING
+<img src="http://shrani.si/f/2/Bb/4KpYEf5S/4.png" width="350" align="middle">
 
-- Bulleted
-- List
+### 4. ANIMATING 
+<img src="http://shrani.si/f/3o/KW/QNHRN0b/55.png" width="350" align="middle">
 
-1. Numbered
-2. List
+## Available on App Store
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/svrzii/PocketCoachBasketball/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![Image](http://shrani.si/f/1o/7h/3ZBcFPRU/app-store-icon.jpg)](https://itunes.apple.com/us/app/pocket-coach-for-football/id1171741624?ls=1&mt=8) 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pocket Coach? Feel free to [contact us](mailto:ms.pocket.coach@gmail.com) and we’ll help you as soon as possible.
